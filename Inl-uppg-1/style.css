@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Merriweather:wght@700&family=Poppins&family=Roboto&display=swap");
+
+.navigation {
+  background-color: lemonchiffon;
+  position: sticky;
+    top: 0;
+}
+nav {
+  
+  color: #000;
+  margin-left: 10px;
+}
+ a:link {
+  text-decoration: none;
+  color: #800080;
+}
+ a:visited {
+  color: #c71585;
+}
+ a:hover {
+  color: #5f9ea0;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+ a:active {
+  color: #ba55d3;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Merriweather", serif;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.portfolio {
+  background-color: rgb(73, 0, 73);
+  color: #faf0e6;
+}
+
+.portfolio-link:link {
+  color: #7cf4f4;
+  
+}
+.portfolio-link:visited {
+  color: #ffc457;
+  
+}
+.portfolio-link:hover {
+  color: #48dc88;
+}
+.portfolio-link:active {
+  color: rgb(255, 255, 65);
+}
+
+.portrait {
+  height: 250px;
+  border-radius: 25px;
+}
+
+.portfolio-img {
+  height: 200px;
+  margin-left: 25px;
+}
+
+.signature {
+  font-family: "Dancing Script", cursive;
+  font-size: 1.2em;
+}
+
